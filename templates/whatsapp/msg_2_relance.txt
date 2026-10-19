@@ -1,0 +1,5 @@
+Salut {{prenom}} ! 👋
+
+Je remonte mon petit message : tu voulais jeter un œil au catalogue Electronic HOUSE ? On a des nouveautés cette semaine. 📱
+
+Dis-moi, je t'envoie ça en un clic !
