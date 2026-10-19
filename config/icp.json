@@ -1,0 +1,81 @@
+{
+  "note": "Profils de clients idéaux (ICP) pour la prospection B2B d'Electronic HOUSE. Horyon affine ces profils avec Horeb dans le chat.",
+  "profils": [
+    {
+      "criteres": [
+        "Vend des téléphones ou accessoires au détail",
+        "Situé au Bénin ou en Afrique de l'Ouest",
+        "A une présence en ligne (site, page Facebook, Google Maps)"
+      ],
+      "description": "Boutiques et revendeurs de téléphones / accessoires qui pourraient acheter en gros ou devenir partenaires.",
+      "mots_cles_recherche": [
+        "revendeur téléphones Cotonou",
+        "boutique smartphones Porto-Novo",
+        "grossiste téléphones Bénin",
+        "phone shop Parakou"
+      ],
+      "nom": "revendeurs_telephones",
+      "zone": [
+        "Bénin",
+        "Togo",
+        "Burkina Faso",
+        "Côte d'Ivoire"
+      ]
+    },
+    {
+      "criteres": [
+        "PME / entreprise de 10 employés et plus",
+        "Secteurs : BTP, logistique, sécurité, ONG, services",
+        "Basée au Bénin"
+      ],
+      "description": "Entreprises qui équipent leurs employés en téléphones (flottes mobiles) et pourraient acheter en volume.",
+      "mots_cles_recherche": [
+        "entreprise BTP Cotonou",
+        "société de gardiennage Bénin",
+        "ONG Cotonou recrutement",
+        "entreprise logistique Bénin"
+      ],
+      "nom": "entreprises_equipement",
+      "zone": [
+        "Bénin"
+      ]
+    },
+    {
+      "criteres": [
+        "Cybercafé ou centre multimédia actif",
+        "Plusieurs postes clients",
+        "Situé dans une grande ville du Bénin"
+      ],
+      "description": "Cybercafés et centres multimédia intéressés par des abonnements logiciels / IPTV pour leurs postes.",
+      "mots_cles_recherche": [
+        "cybercafé Cotonou",
+        "centre multimédia Porto-Novo",
+        "cyber Parakou"
+      ],
+      "nom": "cybercafes",
+      "zone": [
+        "Bénin"
+      ]
+    },
+    {
+      "criteres": [
+        "Hôtel, résidence hôtelière ou ONG avec bureau local",
+        "Équipement multimédia des chambres ou bureaux",
+        "Bénin et Afrique de l'Ouest"
+      ],
+      "description": "Hôtels, résidences et ONG ayant besoin de téléphones, d'abonnements IPTV ou de solutions pour leurs équipes / clients.",
+      "mots_cles_recherche": [
+        "hôtel Cotonou",
+        "résidence hôtelière Bénin",
+        "ONG internationale bureau Cotonou"
+      ],
+      "nom": "hotels_ong",
+      "zone": [
+        "Bénin",
+        "Togo",
+        "Sénégal"
+      ]
+    }
+  ],
+  "version": 1
+}
