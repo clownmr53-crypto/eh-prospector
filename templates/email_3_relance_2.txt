@@ -1,0 +1,14 @@
+OBJET : Dernière relance — {{entreprise}}
+
+Bonjour {{prenom}},
+
+Dernière relance de ma part, promis. Si nos {{produit}} à tarifs pro pour {{activite}} ne sont pas d'actualité pour {{entreprise}}, aucun souci — je clos le dossier.
+
+Et si jamais le besoin arrive plus tard, vous savez où me trouver.
+
+Cordialement,
+Horeb — Electronic HOUSE
+WhatsApp : +229 01 53 63 20 00
+
+---
+Pour ne plus recevoir nos messages : {{lien_desinscription}}
