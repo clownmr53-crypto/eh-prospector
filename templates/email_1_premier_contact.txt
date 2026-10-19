@@ -1,0 +1,16 @@
+OBJET : Des téléphones et abonnements pour {{entreprise}} ?
+
+Bonjour {{prenom}},
+
+Je suis tombé sur {{entreprise}} en cherchant des acteurs de {{activite}} au Bénin, et je me suis dit que notre offre pourrait vous intéresser.
+
+Electronic HOUSE fournit des téléphones, accessoires et abonnements logiciels (IPTV, outils pro) à des prix grossiste, avec livraison rapide et garantie. Nous travaillons déjà avec plusieurs professionnels dans la sous-région.
+
+Seriez-vous disponible pour un court échange cette semaine ? Je peux vous envoyer notre catalogue pro en un message.
+
+Cordialement,
+Horeb — Electronic HOUSE
+WhatsApp : +229 01 53 63 20 00
+
+---
+Vous recevez cet email car votre adresse est publique sur votre site. Pour ne plus recevoir nos messages : {{lien_desinscription}}
