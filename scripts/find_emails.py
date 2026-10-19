@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
 """Extrait les adresses email affichées publiquement dans le HTML d'une liste d'URLs.
 
-Usage ciblé uniquement : prospection B2B d'Electronic HOUSE.
+RÈGLE D'OR : n'utiliser ce script QUE sur des pages publiques où l'email est
+affiché volontairement (page contact d'entreprise, annonce ou post public où
+la personne a publié son adresse elle-même). INTERDIT : pages derrière une
+connexion/compte, contournement de protections, violation des CGU des sites,
+crawl automatisé de profils. Les URLs sont fournies manuellement, une par
+ligne — pas de crawl automatisé.
+
+Usage ciblé uniquement : prospection d'Electronic HOUSE (B2B + B2C public).
 - Lit un fichier texte contenant une URL par ligne.
 - Respecte un délai de 2 secondes entre chaque requête (rate-limit).
 - S'identifie avec un user-agent explicite.
