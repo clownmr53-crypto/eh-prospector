@@ -1,0 +1,14 @@
+OBJET : Re : Des téléphones et abonnements pour {{entreprise}} ?
+
+Bonjour {{prenom}},
+
+Je me permets de relancer mon message de la semaine dernière : Electronic HOUSE propose des {{produit}} à tarifs professionnels pour les acteurs de {{activite}}.
+
+Si le sujet vous intéresse, je vous envoie le catalogue en un clic — sinon, dites-le-moi simplement et je ne vous relancerai plus.
+
+Bonne journée,
+Horeb — Electronic HOUSE
+WhatsApp : +229 01 53 63 20 00
+
+---
+Pour ne plus recevoir nos messages : {{lien_desinscription}}
